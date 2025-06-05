@@ -33,7 +33,7 @@ CUSTOM_DOMAIN_FILE = INSTALL_DIR / "custom_domain.txt" # 存储最终使用的�
 # ====== 全局可配置参数（可直接在此处修改） ======
 USER_NAME = "streamlit"         # 用户名
 UUID = "dd4a10fa-0bdb-4cc6-9b16-ab3048743d32"                     # UUID，留空则自动生成
-PORT = 28002                   # Vmess端口，留空或0则自动生成
+PORT = 28003                   # Vmess端口，留空或0则自动生成
 DOMAIN = "streamlit.pcbh.dpdns.org"                   # 域名，留空则自动获取
 CF_TOKEN = "eyJhIjoiZjNjZTNlYTNmYWExNjY5MTY0N2U2Y2YzNzZhMWUxNGEiLCJ0IjoiYWMzZjk4YjUtOTUyYi00Yjg1LTllYWEtMzBjYThlNmIwNjI4IiwicyI6Ik9UVTBabVpsWmpFdFlXUmhNaTAwTmpnd0xXRmxOR1V0WVRVeU1qbGxabU13Tm1VeiJ9"                 # Cloudflare Token，留空则用Quick Tunnel
 # =========================================
